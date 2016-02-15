@@ -1,16 +1,12 @@
-ZYPE Challenge
-==============
+Basic Template of Rails App with Rspec and VCR configured
+=========================================================
 
 by Boovius/Joshua Book
 ----------------------
 
 ## Installation
-1. Clone repo
-2. Bundle Install
-3. Rails s
-
-## Logging in
-Login using the following credentials to view subscription videos:
- - username=test@test.com
- - password=password
+1. Fork repo
+2. Clone
+3. Bundle Install
+4. Rails s
 
